@@ -3,7 +3,7 @@ package Tree;
 public class TreeDrive {
 	public static void main(String[] args){
 		
-		Node node = new Node(0,"Ramaranjan");
+		Node node = new Node(0,"Sricheta");
 		node.addToTree(1, "Ruj");
 		node.get(0);
 	}
